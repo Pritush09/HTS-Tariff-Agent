@@ -1,123 +1,53 @@
-# Tariff duty calculator agent
-### 13. src/agents/tariff_agent.py
-from typing import Dict, Any, List
-from src.agents.base_agent import BaseAgent
-from src.tools.tariff_tool import TariffTool
-from src.utils.database import HTSDatabase
+from langchain.agents import Tool, initialize_agent
+from langchain.chat_models import ChatOpenAI
+from langchain.agents.agent_types import AgentType
+from src.tools.tariff_tool import TariffCalculatorTool
 
-class TariffAgent(BaseAgent):
-    """Agent for handling HTS duty calculations and tariff lookups."""
-    
-    def __init__(self, database: HTSDatabase):
-        super().__init__("TariffAgent")
-        self.tariff_tool = TariffTool(database)
-    
-    def process_query(self, query: str, **kwargs) -> Dict[str, Any]:
-        """Process tariff calculation and lookup queries."""
-        try:
-            # Determine query type and extract parameters
-            query_type = self._determine_query_type(query, kwargs)
-            
-            if query_type == "calculate_duties":
-                return self._handle_duty_calculation(kwargs)
-            elif query_type == "lookup_hts":
-                return self._handle_hts_lookup(kwargs)
-            elif query_type == "search_description":
-                return self._handle_description_search(kwargs)
-            elif query_type == "sample":
-                return self._handle_sample_calculation()
-            else:
-                return {
-                    "success": False,
-                    "error": "Unable to determine query type",
-                    "suggestion": "Please provide HTS number or product description"
-                }
-                
-        except Exception as e:
-            self.logger.error(f"Error processing tariff query: {e}")
-            return {
-                "success": False,
-                "error": str(e),
-                "agent": self.name
-            }
-    
-    def _determine_query_type(self, query: str, kwargs: Dict[str, Any]) -> str:
-        """Determine the type of query based on input."""
-        if kwargs.get("hts_number") and kwargs.get("product_cost") is not None:
-            return "calculate_duties"
-        elif kwargs.get("hts_number"):
-            return "lookup_hts"
-        elif kwargs.get("description"):
-            return "search_description"
-        elif "sample" in query.lower() or "example" in query.lower():
-            return "sample"
-        else:
-            return "unknown"
-    
-    def _handle_duty_calculation(self, params: Dict[str, Any]) -> Dict[str, Any]:
-        """Handle duty calculation requests."""
-        required_params = ["hts_number", "product_cost", "freight", "insurance", "unit_weight", "quantity"]
-        
-        # Validate required parameters
-        for param in required_params:
-            if param not in params:
-                return {
-                    "success": False,
-                    "error": f"Missing required parameter: {param}",
-                    "required_params": required_params
-                }
-        
-        return self.tariff_tool.calculate_duties(
-            hts_number=params["hts_number"],
-            product_cost=float(params["product_cost"]),
-            freight=float(params["freight"]),
-            insurance=float(params["insurance"]),
-            unit_weight=float(params["unit_weight"]),
-            quantity=int(params["quantity"])
+class TariffAgent:
+    def __init__(self, api_key: str):
+        self.tool = TariffCalculatorTool()
+        self.llm = ChatOpenAI(
+            temperature=0,
+            openai_api_key=api_key,
+            openai_api_base="https://openrouter.ai/api/v1",  # for OpenRouter
+            model="deepseek-ai/deepseek-r1-0528:free"
         )
-    
-    def _handle_hts_lookup(self, params: Dict[str, Any]) -> Dict[str, Any]:
-        """Handle HTS information lookup."""
-        hts_number = params.get("hts_number")
-        if not hts_number:
-            return {
-                "success": False,
-                "error": "HTS number is required for lookup"
-            }
-        
-        return self.tariff_tool.lookup_hts_info(hts_number)
-    
-    def _handle_description_search(self, params: Dict[str, Any]) -> Dict[str, Any]:
-        """Handle product description search."""
-        description = params.get("description")
-        limit = params.get("limit", 10)
-        
-        if not description:
-            return {
-                "success": False,
-                "error": "Product description is required for search"
-            }
-        
-        return self.tariff_tool.search_by_description(description, limit)
-    
-    def _handle_sample_calculation(self) -> Dict[str, Any]:
-        """Handle sample calculation request."""
-        return self.tariff_tool.get_sample_calculation()
-    
-    def get_capabilities(self) -> List[str]:
-        return [
-            "Calculate import duties and landed costs",
-            "Look up HTS tariff information",
-            "Search products by description",
-            "Parse and validate HTS numbers",
-            "Handle percentage, specific, and compound duty rates"
+
+        self.tools = [
+            Tool(
+                name="DutyEstimator",
+                func=self.query_tool,
+                description=(
+                    "Use this tool to estimate duty for a given HTS code and shipment info. "
+                    "Inputs must be a string in this format: "
+                    "'hts_code=0101.21.0000, cost=1000, freight=50, insurance=20, weight=200, quantity=10'"
+                )
+            )
         ]
-    
-    def get_sample_queries(self) -> List[str]:
-        return [
-            "Calculate duties for HTS 0101.30.00.00 with $10,000 cost",
-            "Look up tariff rates for HTS 0201.10.05.00",
-            "Search for cattle in HTS database",
-            "What are the duty rates for beef imports?",
-            "Show me a sample duty calculation"
-        ]
+
+        self.agent = initialize_agent(
+            tools=self.tools,
+            llm=self.llm,
+            agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION,
+            verbose=True
+        )
+
+    def query_tool(self, query: str) -> str:
+        try:
+            params = dict(
+                part.split("=") for part in query.split(",") if "=" in part
+            )
+            result = self.tool.calculate_duty(
+                hts_code=params["hts_code"].strip(),
+                product_cost=float(params["cost"]),
+                freight=float(params["freight"]),
+                insurance=float(params["insurance"]),
+                unit_weight=float(params["weight"]),
+                quantity=int(params["quantity"])
+            )
+            return str(result)
+        except Exception as e:
+            return f"Error parsing or processing request: {str(e)}"
+
+    def run(self, prompt: str) -> str:
+        return self.agent.run(prompt)
