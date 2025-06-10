@@ -35,7 +35,6 @@ hts-agent/
 ├── config/ # Settings (API key, model name)
 ├── data/ # Raw HTS PDFs and CSVs
 │ ├── downloads/
-│ ├── processed/
 │ └── vectorstore/
 ├── scripts/ # Setup scripts for ingestion/vector store
 ├── src/
