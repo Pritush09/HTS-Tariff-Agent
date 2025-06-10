@@ -1,17 +1,15 @@
-import os
 import pandas as pd
 from typing import Dict
 from src.utils.duty_calculator import calculate_duties_for_dataframe
-from .data_ingestion import load_csvs
 
 class TariffCalculatorTool:
-    def __init__(self, data_dir: str = "data/downloads/section1"):
-        self.data = load_csvs(data_dir)
+    def __init__(self, data_dir: str = "data/downloads/section1.csv"):
+        self.data = pd.read_csv(data_dir)
 
     def calculate_duty(self, hts_code: str, product_cost: float, freight: float, insurance: float,
                        unit_weight: float, quantity: int) -> Dict:
         """
-        Looks up a specific HTS code and calculates applicable duties.
+        Look up the HTS code and calculate all applicable duties.
         """
         df = self.data
         match = df[df["HTS Number"].astype(str).str.startswith(hts_code)]

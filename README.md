@@ -26,7 +26,7 @@ TariffBot is an AI-powered assistant designed to help importers, analysts, and t
 ---
 
 ## 🧰 Project Structure
-
+```
 hts-agent/
 ├── README.md
 ├── requirements.txt
@@ -41,7 +41,7 @@ hts-agent/
 │ ├── agents/ # HTSAgent, RAGAgent, TariffAgent
 │ ├── tools/ # RAGTool, TariffTool, Embedding loader
 │ ├── utils/ # duty calculator
-
+```
 
 
 ---

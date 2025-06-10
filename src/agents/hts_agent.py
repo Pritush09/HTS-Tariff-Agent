@@ -15,14 +15,15 @@ logger = logging.getLogger("HTSAgent")
 
 
 
+import re
 
 from langchain.agents import initialize_agent, Tool, AgentType
 from langchain.chat_models import ChatOpenAI
 from langchain.memory import ConversationBufferMemory
 from src.agents.rag_agent import RAGAgent
-from src.tools.tariff_tool import TariffCalculatorTool
+# from src.tools.tariff_tool import TariffCalculatorTool
 from src.agents.tariff_agent import TariffAgent
-from config.settings import OPENROUTER_API_KEY, MODEL_NAME
+from config.settings import OPENROUTER_API_KEY
 
 class HTSAgent:
     def __init__(self, model_name="deepseek/deepseek-r1-0528:free"):
@@ -34,13 +35,13 @@ class HTSAgent:
         )
         # self.tariff_tool = TariffCalculatorTool()
         self.rag_agent = RAGAgent(model_name)
-        self.tariff_agent = TariffAgent(model_name)
+        self.tariff_agent = TariffAgent()
 
         self.tools = [
             Tool(
                 name="DutyEstimator",
                 func=self._handle_tariff_query,
-                description="Estimates duty given hts_code, cost, freight, insurance, weight, quantity"
+                description="Calculate import duty. Input format: hts_code=..., cost=..., freight=..., insurance=..., weight=..., quantity=..."
             ),
             Tool(
                 name="TradePolicyQA",
@@ -60,20 +61,37 @@ class HTSAgent:
             # LangChain agents expect response when using agent in specific format when it doesnt met then it throws error
         )
 
-    def _handle_tariff_query(self, query: str) -> str:
-        try:
-            parts = dict(p.strip().split("=") for p in query.split(","))
-            return str(self.tariff_agent.calculate_duty(
-                hts_code=parts["hts_code"],
-                product_cost=float(parts["cost"]),
-                freight=float(parts["freight"]),
-                insurance=float(parts["insurance"]),
-                unit_weight=float(parts["weight"]),
-                quantity=int(parts["quantity"])
-            ))
-        except Exception as e:
-            return f"Error parsing tariff query: {e}"
 
+    def _handle_tariff_query(self, query: str) -> str:
+        logger.info(f"DutyEstimator called with: {query}")
+        try:
+            parts = dict(p.strip().split("=", 1) for p in query.split(",") if "=" in p)
+            
+            # Normalize numeric fields using regex
+            def clean_float(val):
+                return float(re.findall(r"[\d.]+", val)[0])  # first number only
+
+            def clean_int(val):
+                return int(re.findall(r"\d+", val)[0])  # first integer only
+
+            result = self.tariff_agent.calculate_duty(
+                hts_code=parts["hts_code"].strip(),
+                product_cost=clean_float(parts["cost"]),
+                freight=clean_float(parts["freight"]),
+                insurance=clean_float(parts["insurance"]),
+                unit_weight=clean_float(parts["weight"]),
+                quantity=clean_int(parts["quantity"])
+            )
+            if "error" in result:
+                return f"❌ Could not find data for HTS code: {parts['hts_code']}. Please check the code and try again."
+            logger.info(f"Tariff result: {result}")
+            return str(result)
+
+        except Exception as e:
+            logger.error(f"Error in duty query: {e}")
+            return f"Error parsing tariff query: {e}"
+        
+        
     def _handle_policy_query(self, question: str) -> str:
         return self.rag_agent.run(question)
 
@@ -98,3 +116,11 @@ class HTSAgent:
         except Exception as e:
             logger.error(f"Agent fallback due to parsing failure: {e}")
             return f"⚠️ Sorry, I encountered an error. Here's the raw output:\n\n{str(e)}"
+
+
+if __name__ == "__main__":
+    
+    agent = HTSAgent()
+    print(agent._handle_tariff_query(
+    "hts_code=0101.21.0000, cost=1000, freight=50, insurance=20, weight=200, quantity=10"
+))

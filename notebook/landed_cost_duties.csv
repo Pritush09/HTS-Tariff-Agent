@@ -1,0 +1,519 @@
+HTS Number,Description,General Rate of Duty,Special Rate of Duty,Column 2 Rate of Duty,CIF Value,Product Cost,Freight,Insurance,General Rate of Duty Parsed (%),General Rate of Duty Duty Amount,Special Rate of Duty Parsed (%),Special Rate of Duty Duty Amount,Column 2 Rate of Duty Parsed (%),Column 2 Rate of Duty Duty Amount
+0101.29.00,Other,Free,,20%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.2,2120.0
+0101.30.00.00,Asses,6.8%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",15%,10600.0,10000.0,500.0,100.0,0.068,720.8000000000001,0.0,0.0,0.15,1590.0
+0101.90.40.00,Other,4.5%,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",20%,10600.0,10000.0,500.0,100.0,0.045,477.0,0.0,0.0,0.2,2120.0
+0102.29.20,Cows imported specially for dairy purposes,Free,,6.6¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.006226415094339623,66.0
+0102.29.40,Other,1¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0009433962264150943,10.0,0.0,0.0,0.005188679245283019,55.0
+0102.39.00,Other,1¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0009433962264150943,10.0,0.0,0.0,0.005188679245283019,55.0
+0102.90.00.00,Other,1¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0009433962264150943,10.0,0.0,0.0,0.005188679245283019,55.0
+0103.91.00,Weighing less than 50 kg each,Free,,4.4¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.004150943396226415,44.0
+0103.92.00,Weighing 50 kg or more each,Free,,4.4¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.004150943396226415,44.0
+0105.94.00.00,Chickens,2¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",17.6¢/kg,10600.0,10000.0,500.0,100.0,0.0018867924528301887,20.0,0.0,0.0,0.01660377358490566,176.0
+0105.99.00.00,Other,2¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",17.6¢/kg,10600.0,10000.0,500.0,100.0,0.0018867924528301887,20.0,0.0,0.0,0.01660377358490566,176.0
+0106.11.00.00,Primates,Free,,15%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.15,1590.0
+0106.12.01.00,"Whales, dolphins and porpoises (mammals of the order Cetacea); manatees and dugongs (mammals of the order Sirenia); seals, sea lions and walruses (mammals of the suborder Pinnipedia)",Free,,15%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.15,1590.0
+0106.13.00.00,Camels and other camelids (Camelidae),Free,,15%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.15,1590.0
+0106.14.00.00,Rabbits and hares,Free,,15%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.15,1590.0
+0106.19.30.00,Foxes,4.8%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",15%,10600.0,10000.0,500.0,100.0,0.048,508.8,0.0,0.0,0.15,1590.0
+0106.19.91,Other,Free,,15%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.15,1590.0
+0106.20.00.00,Reptiles (including snakes and turtles),Free,,15%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.15,1590.0
+0106.31.00.00,Birds of prey,1.8%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.018000000000000002,190.8,0.0,0.0,0.2,2120.0
+0106.32.00.00,"Psittaciformes (including parrots, parakeets, macaws and cockatoos)",1.8%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.018000000000000002,190.8,0.0,0.0,0.2,2120.0
+0106.33.00.00,Ostriches; emus (Dromaius novaehollandiae),1.8%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.018000000000000002,190.8,0.0,0.0,0.2,2120.0
+0106.39.01.00,Other,1.8%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.018000000000000002,190.8,0.0,0.0,0.2,2120.0
+0106.41.00.00,Bees,Free,,15%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.15,1590.0
+0106.49.00,Other,Free,,15%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.15,1590.0
+0106.90.01,Other,Free,,15%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.15,1590.0
+0201.10.05,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,4.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E*, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",13.2¢/kg,10600.0,10000.0,500.0,100.0,0.004150943396226415,44.0,0.0,0.0,0.012452830188679246,132.0
+0201.10.10,Described in additional U.S. note 3 to this chapter and entered pursuant to its provisions,4.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",13.2¢/kg,10600.0,10000.0,500.0,100.0,0.004150943396226415,44.0,0.0,0.0,0.012452830188679246,132.0
+0201.10.50,Other,26.4%,"Free (BH,CL,CO,JO,MA,OM,P,PE,S,SG) 1.7% (KR) See 9822.04.01-9822.04.03 (AU) See 9919.02.01-9919.02.02 (PA)",31.1%,10600.0,10000.0,500.0,100.0,0.264,2798.4,0.0,0.0,0.311,3296.6
+0201.20.02.00,High-quality beef cuts,4%,"Free (A+,AU,BH,CL,CO,D,E*, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",20%,10600.0,10000.0,500.0,100.0,0.04,424.0,0.0,0.0,0.2,2120.0
+0201.20.04.00,Other,10%,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.2,2120.0
+0201.20.06.00,Other,4.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E*, IL,JO,KR,MA,OM,P,PA, PE,S,SG)",13.2¢/kg,10600.0,10000.0,500.0,100.0,0.004150943396226415,44.0,0.0,0.0,0.012452830188679246,132.0
+0201.20.10.00,High-quality beef cuts,4%,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.04,424.0,0.0,0.0,0.2,2120.0
+0201.20.30.00,Other,10%,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.2,2120.0
+0201.20.50,Other,4.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",13.2¢/kg,10600.0,10000.0,500.0,100.0,0.004150943396226415,44.0,0.0,0.0,0.012452830188679246,132.0
+0201.20.80,Other,26.4%,"Free (BH,CL,CO,JO,MA,OM,P,PE,S,SG) 1.7% (KR) See 9822.04.01-9822.04.03 (AU) See 9919.02.01-9919.02.02 (PA)",31.1%,10600.0,10000.0,500.0,100.0,0.264,2798.4,0.0,0.0,0.311,3296.6
+0201.30.02.00,High-quality beef cuts,4%,"Free (A+,AU,BH,CL,CO,D,E*, IL,JO,KR,MA,OM, P,PA, PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.04,424.0,0.0,0.0,0.2,2120.0
+0201.30.04.00,Other,10%,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.2,2120.0
+0201.30.06.00,Other,4.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E*, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",13.2¢/kg,10600.0,10000.0,500.0,100.0,0.004150943396226415,44.0,0.0,0.0,0.012452830188679246,132.0
+0201.30.10.00,High-quality beef cuts,4%,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.04,424.0,0.0,0.0,0.2,2120.0
+0201.30.30.00,Other,10%,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.2,2120.0
+0201.30.50,Other,4.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",13.2¢/kg,10600.0,10000.0,500.0,100.0,0.004150943396226415,44.0,0.0,0.0,0.012452830188679246,132.0
+0201.30.80,Other,26.4%,"Free (BH,CL,CO,JO,MA,OM,P,PE,S,SG) 1.7% (KR) See 9822.04.01-9822.04.03 (AU) See 9919.02.01-9919.02.02 (PA)",31.1%,10600.0,10000.0,500.0,100.0,0.264,2798.4,0.0,0.0,0.311,3296.6
+0202.10.05,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,4.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E*, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",13.2¢/kg,10600.0,10000.0,500.0,100.0,0.004150943396226415,44.0,0.0,0.0,0.012452830188679246,132.0
+0202.10.10,Described in additional U.S. note 3 to this chapter and entered pursuant to its provisions,4.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",13.2¢/kg,10600.0,10000.0,500.0,100.0,0.004150943396226415,44.0,0.0,0.0,0.012452830188679246,132.0
+0202.10.50,Other,26.4%,"Free (BH,CL,CO,JO,MA,OM,P,PE,S,SG) 1.7% (KR) See 9822.04.01-9822.04.03 (AU) See 9919.02.01-9919.02.02 (PA)",31.1%,10600.0,10000.0,500.0,100.0,0.264,2798.4,0.0,0.0,0.311,3296.6
+0202.20.02.00,High-quality beef cuts,4%,"Free (A+,AU,BH,CL,CO,D,E*, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",20%,10600.0,10000.0,500.0,100.0,0.04,424.0,0.0,0.0,0.2,2120.0
+0202.20.04.00,Other,10%,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.2,2120.0
+0202.20.06.00,Other,4.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E*, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",13.2¢/kg,10600.0,10000.0,500.0,100.0,0.004150943396226415,44.0,0.0,0.0,0.012452830188679246,132.0
+0202.20.10.00,High-quality beef cuts,4%,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.04,424.0,0.0,0.0,0.2,2120.0
+0202.20.30.00,Other,10%,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.2,2120.0
+0202.20.50,Other,4.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",13.2¢/kg,10600.0,10000.0,500.0,100.0,0.004150943396226415,44.0,0.0,0.0,0.012452830188679246,132.0
+0202.20.80.00,Other,26.4%,"Free (BH,CL,CO,JO,MA,OM,P,PE,S,SG) 1.7% (KR) See 9822.04.01-9822.04.03 (AU) See 9919.02.01-9919.02.02 (PA)",31.1%,10600.0,10000.0,500.0,100.0,0.264,2798.4,0.0,0.0,0.311,3296.6
+0202.30.02.00,High-quality beef cuts,4%,"Free (A,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.04,424.0,0.0,0.0,0.2,2120.0
+0202.30.04.00,Other,10%,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.2,2120.0
+0202.30.06.00,Other,4.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E*, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",13.2¢/kg,10600.0,10000.0,500.0,100.0,0.004150943396226415,44.0,0.0,0.0,0.012452830188679246,132.0
+0202.30.10.00,High-quality beef cuts,4%,"Free (A*,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.04,424.0,0.0,0.0,0.2,2120.0
+0202.30.30.00,Other,10%,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.2,2120.0
+0202.30.50,Other,4.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E*,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",13.2¢/kg,10600.0,10000.0,500.0,100.0,0.004150943396226415,44.0,0.0,0.0,0.012452830188679246,132.0
+0202.30.80.00,Other,26.4%,"Free (BH,CL,CO,JO,MA,OM,P,PE,S,SG) 1.7% (KR) See 9822.04.01-9822.04.03 (AU) See 9919.02.01-9919.02.02 (PA)",31.1%,10600.0,10000.0,500.0,100.0,0.264,2798.4,0.0,0.0,0.311,3296.6
+0203.11.00.00,Carcasses and half-carcasses,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0203.12.10,Processed,1.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",7.2¢/kg,10600.0,10000.0,500.0,100.0,0.0013207547169811322,14.000000000000002,0.0,0.0,0.006792452830188679,72.0
+0203.12.90,Other,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0203.19.20,Processed,1.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",7.2¢/kg,10600.0,10000.0,500.0,100.0,0.0013207547169811322,14.000000000000002,0.0,0.0,0.006792452830188679,72.0
+0203.19.40,Other,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0203.21.00.00,Carcasses and half-carcasses,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0203.22.10.00,Processed,1.4¢/kg,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",7.2¢/kg,10600.0,10000.0,500.0,100.0,0.0013207547169811322,14.000000000000002,0.0,0.0,0.006792452830188679,72.0
+0203.22.90.00,Other,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0203.29.20.00,Processed,1.4¢/kg,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",7.2¢/kg,10600.0,10000.0,500.0,100.0,0.0013207547169811322,14.000000000000002,0.0,0.0,0.006792452830188679,72.0
+0203.29.40.00,Other,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0204.10.00.00,"Carcasses and half-carcasses of lamb, fresh or chilled",0.7¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",15.4¢/kg,10600.0,10000.0,500.0,100.0,0.0006603773584905661,7.000000000000001,0.0,0.0,0.014528301886792452,154.0
+0204.21.00.00,Carcasses and half-carcasses,2.8¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR, MA,OM,P,PA,PE,S, SG)",11¢/kg,10600.0,10000.0,500.0,100.0,0.0026415094339622643,28.000000000000004,0.0,0.0,0.010377358490566037,110.0
+0204.22.20,Lamb,0.7¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",15.4¢/kg,10600.0,10000.0,500.0,100.0,0.0006603773584905661,7.000000000000001,0.0,0.0,0.014528301886792452,154.0
+0204.22.40.00,Other,2.8¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",11¢/kg,10600.0,10000.0,500.0,100.0,0.0026415094339622643,28.000000000000004,0.0,0.0,0.010377358490566037,110.0
+0204.23.20.00,Lamb,0.7¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",15.4¢/kg,10600.0,10000.0,500.0,100.0,0.0006603773584905661,7.000000000000001,0.0,0.0,0.014528301886792452,154.0
+0204.23.40.00,Other,2.8¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",11¢/kg,10600.0,10000.0,500.0,100.0,0.0026415094339622643,28.000000000000004,0.0,0.0,0.010377358490566037,110.0
+0204.30.00.00,"Carcasses and half-carcasses of lamb, frozen",0.7¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",15.4¢/kg,10600.0,10000.0,500.0,100.0,0.0006603773584905661,7.000000000000001,0.0,0.0,0.014528301886792452,154.0
+0204.41.00.00,Carcasses and half-carcasses,2.8¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",11¢/kg,10600.0,10000.0,500.0,100.0,0.0026415094339622643,28.000000000000004,0.0,0.0,0.010377358490566037,110.0
+0204.42.20,Lamb,0.7¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",15.4¢/kg,10600.0,10000.0,500.0,100.0,0.0006603773584905661,7.000000000000001,0.0,0.0,0.014528301886792452,154.0
+0204.42.40.00,Other,2.8¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",11¢/kg,10600.0,10000.0,500.0,100.0,0.0026415094339622643,28.000000000000004,0.0,0.0,0.010377358490566037,110.0
+0204.43.20.00,Lamb,0.7¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",15.4¢/kg,10600.0,10000.0,500.0,100.0,0.0006603773584905661,7.000000000000001,0.0,0.0,0.014528301886792452,154.0
+0204.43.40.00,Other,2.8¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",11¢/kg,10600.0,10000.0,500.0,100.0,0.0026415094339622643,28.000000000000004,0.0,0.0,0.010377358490566037,110.0
+0204.50.00.00,Meat of goats,Free,,11¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.010377358490566037,110.0
+0206.10.00.00,"Of bovine animals, fresh or chilled",Free,,30%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.3,3180.0
+0206.21.00.00,Tongues,Free,,30%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.3,3180.0
+0206.22.00.00,Livers,Free,,30%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.3,3180.0
+0206.29.00.00,Other,Free,,30%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.3,3180.0
+0206.30.00.00,"Of swine, fresh or chilled",Free,,30%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.3,3180.0
+0206.41.00.00,Livers,Free,,30%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.3,3180.0
+0206.49.00.00,Other,Free,,30%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.3,3180.0
+0206.80.00.00,"Other, fresh or chilled",Free,,30%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.3,3180.0
+0206.90.00,"Other, frozen",Free,,30%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.3,3180.0
+0207.11.00,"Not cut in pieces, fresh or chilled",8.8¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.00830188679245283,88.0,0.0,0.0,0.020754716981132074,220.0
+0207.12.00,"Not cut in pieces, frozen",8.8¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S,SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.00830188679245283,88.0,0.0,0.0,0.020754716981132074,220.0
+0207.13.00.00,"Cuts and offal, fresh or chilled",17.6¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.01660377358490566,176.0,0.0,0.0,0.020754716981132074,220.0
+0207.14.00,"Cuts and offal, frozen",17.6¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.01660377358490566,176.0,0.0,0.0,0.020754716981132074,220.0
+0207.24.00.00,"Not cut in pieces, fresh or chilled",15¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.014150943396226415,150.0,0.0,0.0,0.020754716981132074,220.0
+0207.25.20.00,Valued less than 88¢/kg,8.8¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.00830188679245283,88.0,0.0,0.0,0.020754716981132074,220.0
+0207.25.40.00,Valued 88¢ or more per kg,10%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.25,2650.0
+0207.26.00.00,"Cuts and offal, fresh or chilled",17.6¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.01660377358490566,176.0,0.0,0.0,0.020754716981132074,220.0
+0207.27.00,"Cuts and offal, frozen",17.6¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.01660377358490566,176.0,0.0,0.0,0.020754716981132074,220.0
+0207.41.00.00,"Not cut in pieces, fresh or chilled",8.8¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.00830188679245283,88.0,0.0,0.0,0.020754716981132074,220.0
+0207.42.00.00,"Not cut in pieces, frozen",8.8¢/kg,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.00830188679245283,88.0,0.0,0.0,0.020754716981132074,220.0
+0207.43.00.00,"Fatty livers, fresh or chilled",17.6¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.01660377358490566,176.0,0.0,0.0,0.020754716981132074,220.0
+0207.44.00.00,"Other, fresh or chilled",17.6¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.01660377358490566,176.0,0.0,0.0,0.020754716981132074,220.0
+0207.45.00,"Other, frozen",17.6¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.01660377358490566,176.0,0.0,0.0,0.020754716981132074,220.0
+0207.51.00.00,"Not cut in pieces, fresh or chilled",8.8¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.00830188679245283,88.0,0.0,0.0,0.020754716981132074,220.0
+0207.52.00.00,"Not cut in pieces, frozen",8.8¢/kg,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.00830188679245283,88.0,0.0,0.0,0.020754716981132074,220.0
+0207.53.00.00,"Fatty livers, fresh or chilled",17.6¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.01660377358490566,176.0,0.0,0.0,0.020754716981132074,220.0
+0207.54.00.00,"Other, fresh or chilled",17.6¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.01660377358490566,176.0,0.0,0.0,0.020754716981132074,220.0
+0207.55.00,"Other, frozen",17.6¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.01660377358490566,176.0,0.0,0.0,0.020754716981132074,220.0
+0207.60.10.00,"Not cut in pieces, fresh or chilled",8.8¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA, OM,P,PA,PE,S,SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.00830188679245283,88.0,0.0,0.0,0.020754716981132074,220.0
+0207.60.20.00,"Not cut in pieces, frozen",8.8¢/kg,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.00830188679245283,88.0,0.0,0.0,0.020754716981132074,220.0
+0207.60.30.00,"Fatty livers, fresh or chilled",17.6¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.01660377358490566,176.0,0.0,0.0,0.020754716981132074,220.0
+0207.60.40.00,"Other, fresh or chilled",17.6¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.01660377358490566,176.0,0.0,0.0,0.020754716981132074,220.0
+0207.60.60,"Other, frozen",17.6¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.01660377358490566,176.0,0.0,0.0,0.020754716981132074,220.0
+0208.10.00.00,Of rabbits or hares,6.4%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.064,678.4,0.0,0.0,0.2,2120.0
+0208.30.00.00,Of primates,6.4%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.064,678.4,0.0,0.0,0.2,2120.0
+0208.40.01.00,"Of whales, dolphins and porpoises (mammals of the order Cetacea); of manatees and dugongs (mammals of the order Sirenia); of seals, sea lions and walruses (mammals of the suborder Pinnipedia).",6.4%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.064,678.4,0.0,0.0,0.2,2120.0
+0208.50.00.00,Of reptiles (including snakes and turtles),6.4%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.064,678.4,0.0,0.0,0.2,2120.0
+0208.60.00.00,Of camels and other camelids (Camelidae),6.4%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.064,678.4,0.0,0.0,0.2,2120.0
+0208.90.20.00,Deer,Free,,13.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.012452830188679246,132.0
+0208.90.25.00,Frogsʼ legs,Free,,10%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.1,1060.0
+0208.90.30.00,"Quail, eviscerated, not in pieces",7¢/kg,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",22¢/kg,10600.0,10000.0,500.0,100.0,0.006603773584905661,70.0,0.0,0.0,0.020754716981132074,220.0
+0208.90.91.00,Other,6.4%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.064,678.4,0.0,0.0,0.2,2120.0
+0209.10.00.00,Of pigs,3.2%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.032,339.2,0.0,0.0,0.2,2120.0
+0209.90.00.00,Other,3.2%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.032,339.2,0.0,0.0,0.2,2120.0
+0210.11.00,"Hams, shoulders and cuts thereof, with bone in",1.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",7.2¢/kg,10600.0,10000.0,500.0,100.0,0.0013207547169811322,14.000000000000002,0.0,0.0,0.006792452830188679,72.0
+0210.12.00,Bellies (streaky) and cuts thereof,1.4¢/kg,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",7.2¢/kg,10600.0,10000.0,500.0,100.0,0.0013207547169811322,14.000000000000002,0.0,0.0,0.006792452830188679,72.0
+0210.19.00,Other,1.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",7.2¢/kg,10600.0,10000.0,500.0,100.0,0.0013207547169811322,14.000000000000002,0.0,0.0,0.006792452830188679,72.0
+0210.20.00.00,Meat of bovine animals,Free,,30%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.3,3180.0
+0210.91.00.00,Of primates,2.3%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.023,243.79999999999998,0.0,0.0,0.2,2120.0
+0210.92.01.00,"Of whales, dolphins and porpoises (mammals of the order Cetacea); of manatees and dugongs (mammals of the order Sirenia); of seals, sea lions and walruses (mammals of the suborder Pinnipedia)",2.3%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.023,243.79999999999998,0.0,0.0,0.2,2120.0
+0210.93.00.00,Of reptiles (including snakes and turtles),2.3%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.023,243.79999999999998,0.0,0.0,0.2,2120.0
+0210.99.20.00,Meat of poultry of heading 0105,2.3%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.023,243.79999999999998,0.0,0.0,0.2,2120.0
+0210.99.91.00,Other,2.3%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.023,243.79999999999998,0.0,0.0,0.2,2120.0
+0302.11.00,"Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache  and Oncorhynchus chrysogaster)",Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.13.00,"Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus)",Free,,4.4¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.004150943396226415,44.0
+0302.14.00,Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho),Free,,4.4¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.004150943396226415,44.0
+0302.19.00.00,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.21.00,"Halibut and Greenland turbot (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis)",Free,,4.4¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.004150943396226415,44.0
+0302.22.00.00,Plaice (Pleuronectes platessa),Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.23.00.00,Sole (Solea spp.),1.1¢/kg,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0010377358490566038,11.0,0.0,0.0,0.0020754716981132076,22.0
+0302.24.00.00,Turbots (Psetta maxima),Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.29.01,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.43.00.00,"Sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus)",Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.44.00.00,"Mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus)",Free,,4.4¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.004150943396226415,44.0
+0302.45.11.00,"Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",3%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.03,318.0,0.0,0.0,0.25,2650.0
+0302.45.50.00,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.46.11.00,"Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",3%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.03,318.0,0.0,0.0,0.25,2650.0
+0302.46.50.00,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.47.00,Swordfish (Xiphias gladius),Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.49.00.00,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.51.00,"Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.52.00.00,Haddock (Melanogrammus aeglefinus),Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.53.00.00,Coalfish (Pollachius virens),Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.54.11.00,"Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",3%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.03,318.0,0.0,0.0,0.25,2650.0
+0302.54.50.00,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.55.11.00,"Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",3%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.03,318.0,0.0,0.0,0.25,2650.0
+0302.55.50.00,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.56.11.00,"Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",3%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.03,318.0,0.0,0.0,0.25,2650.0
+0302.56.50.00,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.59.11.00,"Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",3%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.03,318.0,0.0,0.0,0.25,2650.0
+0302.59.50,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.71.11.00,"Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",3%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.03,318.0,0.0,0.0,0.25,2650.0
+0302.71.50.00,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.72.11.00,"Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",3%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.03,318.0,0.0,0.0,0.25,2650.0
+0302.72.50,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.73.11.00,"Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",3%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.03,318.0,0.0,0.0,0.25,2650.0
+0302.73.50.00,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.74.00.00,Eels (Anguilla spp.),Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.79.11.00,"Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",3%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.03,318.0,0.0,0.0,0.25,2650.0
+0302.79.50,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.81.00,Dogfish and other sharks,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.82.00.00,Rays and skates (Rajidae),Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.83.00.00,Toothfish (Dissostichus spp.),Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.84.11.00,"Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",3%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.03,318.0,0.0,0.0,0.25,2650.0
+0302.84.50.00,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.85.11.00,"Scaled (whether or not heads, viscera and/or fins have been removed, but not otherwise processed), in immediate containers weighing with their contents 6.8 kg or less",3%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.03,318.0,0.0,0.0,0.25,2650.0
+0302.85.50.00,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.89.11,"Scaled (whether or not heads, viscera and/or fins have been processed), in immediate containers weighing with their contents 6.8 kg or less",3%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.03,318.0,0.0,0.0,0.25,2650.0
+0302.89.50,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.91.20.00,Sturgeon roe,15%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",30%,10600.0,10000.0,500.0,100.0,0.15,1590.0,0.0,0.0,0.3,3180.0
+0302.91.40,Other,Free,,44¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.04150943396226415,440.0
+0302.92.00.00,Shark fins,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0302.99.00.00,Other,Free,,44¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.04150943396226415,440.0
+0303.11.00.00,Sockeye salmon (red salmon) (Oncorhynchus nerka),Free,,4.4¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.004150943396226415,44.0
+0303.12.00,"Other Pacific salmon (Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus)",Free,,4.4¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.004150943396226415,44.0
+0303.13.00.00,Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho),Free,,4.4¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.004150943396226415,44.0
+0303.14.00.00,"Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)",Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.19.01.00,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.23.00.00,Tilapias (Oreochromis spp.),Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.24.00,"Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)",Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.25.01.00,"Carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.)",Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.26.00.00,Eels (Anguilla spp.),Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.29.01,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.31.00,"Halibut and Greenland turbot (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis)",Free,,4.4¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.004150943396226415,44.0
+0303.32.00.00,Plaice (Pleuronectes platessa),Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.33.00.00,Sole (Solea spp.),1.1¢/kg,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0010377358490566038,11.0,0.0,0.0,0.0020754716981132076,22.0
+0303.34.00.00,Turbots (Psetta maxima),1.1¢/kg,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0010377358490566038,11.0,0.0,0.0,0.0020754716981132076,22.0
+0303.39.01,Other,1.1¢/kg,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0010377358490566038,11.0,0.0,0.0,0.0020754716981132076,22.0
+0303.53.00.00,"Sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus)",1.1¢/kg,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0010377358490566038,11.0,0.0,0.0,0.0020754716981132076,22.0
+0303.54.00.00,"Mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus)",Free,,4.4¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.004150943396226415,44.0
+0303.55.00.00,Jack and horse mackerel (Trachurus spp.),Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.56.00.00,Cobia (Rachycentron canadum),Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.57.00,Swordfish (Xiphias gladius),Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.59.00.00,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.63.00,"Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.64.00.00,Haddock (Melanogrammus aeglefinus),Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.65.00.00,Coalfish (Pollachius virens),Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.66.00.00,"Hake (Merluccius spp., Urophycis spp.)",Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.67.00.00,Alaska pollock (Theragra chalcogramma),Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.68.00.00,"Blue whitings (Micromesistius poutassou, Micromesistius australis)",Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.69.00.00,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.81.00,Dogfish and other sharks,1.1¢/kg,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0010377358490566038,11.0,0.0,0.0,0.0020754716981132076,22.0
+0303.82.00.00,Rays and skates (Rajidae),Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.83.00.00,Toothfish (Dissostichus spp.),Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.84.00.00,Sea Bass (Dicentrachus spp.),Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.89.00,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0303.91.20.00,Sturgeon roe,15%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",30%,10600.0,10000.0,500.0,100.0,0.15,1590.0,0.0,0.0,0.3,3180.0
+0303.91.40,Other,Free,,44¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.04150943396226415,440.0
+0303.92.00.00,Shark fins,1.1¢/kg,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0010377358490566038,11.0,0.0,0.0,0.0020754716981132076,22.0
+0303.99.00.00,Other,Free,,44¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.04150943396226415,440.0
+0304.31.00.00,Tilapias (Oreochromis spp.),Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.32.00,"Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)",Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.33.00.00,Nile perch (Lates niloticus),Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.39.00.00,Other,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.41.00,"Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus) Atlantic Salmon (Salmo salar) and Danube salmon (Hucho hucho)",Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.42.00.00,"Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae Oncorhynchus apache, and Oncorhynchus chrysogaster)",Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.43.00,"Flat Fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae, and Citharidae)",Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.44.00,"Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae",Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.45.00.00,Swordfish (Xiphias gladius),Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.46.00.00,Toothfish (Dissostichus spp.),Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.47.00.00,Dogfish and other sharks,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.48.00.00,Rays and skates (Rajidae),Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.49.01,Other,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.51.01,"Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)",Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.52.00,Salmonidae,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.53.00,"Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae",Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.54.00.00,Swordfish (Xiphias gladius),Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.55.00.00,Toothfish (Dissostichus spp.),Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.56.00.00,Dogfish and other sharks,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.57.00.00,Rays and skates (Rajidae),Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.59.00,Other,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.61.00.00,Tilapias (Oreochromis spp.),Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.62.00,"Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)",Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.63.00.00,Nile perch (Lates niloticus),Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.69.00.00,Other,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.71.10.00,"Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions",Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0304.71.50.00,Other,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.72.10.00,"Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions",Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0304.72.50.00,Other,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.73.10.00,"Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions",Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0304.73.50.00,Other,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.74.10.00,"Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions",Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0304.74.50.00,Other,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.75.10.00,"Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions",Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0304.75.50.00,Other,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.79.10,"Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions",Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0304.79.50.00,Other,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.81.10.00,"Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions",Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0304.81.50,Other,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.82.10.00,"Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions",Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0304.82.50.00,Other,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.83.10,"Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions",Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0304.83.50,Other,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.84.00.00,Swordfish (Xiphias gladius),Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.85.00.00,Toothfish (Dissostichus spp.),Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.86.00.00,"Herrings (Clupea harengus, Clupea pallasii)",Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.87.00.00,"Tunas (of the genus Thunnus), skipjack tuna (stripe-bellied bonito) (Katsuwonus pelamis)",Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.88.00.00,"Dogfish, other sharks, rays and skates (Rajidae)",Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.89.10,"Skinned, whether or not divided into pieces, and frozen into blocks each weighing over 4.5 kg, imported to be minced, ground or cut into pieces of uniform weights and dimensions",Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0304.89.50,Other,Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0304.91.10.00,In bulk or in immediate containers weighing with their contents over 6.8 kg each,Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0304.91.90.00,Other,6%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.06,636.0,0.0,0.0,0.25,2650.0
+0304.92.10.00,In bulk or in immediate containers weighing with their contents over 6.8 kg each,Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0304.92.90.00,Other,6%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.06,636.0,0.0,0.0,0.25,2650.0
+0304.93.10,In bulk or in immediate containers weighing with their contents over 6.8 kg each,Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0304.93.90.00,Other,6%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.06,636.0,0.0,0.0,0.25,2650.0
+0304.94.10,In bulk or in immediate containers weighing with their contents over 6.8 kg each,Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0304.94.90.00,Other,6%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.06,636.0,0.0,0.0,0.25,2650.0
+0304.95.10,In bulk or in immediate containers weighing with their contents over 6.8 kg each,Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0304.95.90.00,Other,6%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.06,636.0,0.0,0.0,0.25,2650.0
+0304.96.00.00,Dogfish and other sharks,6%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.06,636.0,0.0,0.0,0.25,2650.0
+0304.97.00.00,Rays and skates (Rajidae),6%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.06,636.0,0.0,0.0,0.25,2650.0
+0304.99.11,In bulk or in immediate containers weighing with their contents over 6.8 kg each,Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0304.99.91,Other,6%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.06,636.0,0.0,0.0,0.25,2650.0
+0305.20.20.00,Sturgeon roe,7.5%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",30%,10600.0,10000.0,500.0,100.0,0.075,795.0,0.0,0.0,0.3,3180.0
+0305.20.40,Other,Free,,44¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.04150943396226415,440.0
+0305.31.01.00,"Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)",Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0305.32.00,"Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae",Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0305.39.20.00,"Herrings, in immediate containers weighing with their contents 6.8 kg or less each",4%,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",25%,10600.0,10000.0,500.0,100.0,0.04,424.0,0.0,0.0,0.25,2650.0
+0305.39.40.00,"Mackerel, in immediate containers weighing with their contents 6.8 kg or less each",5%,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",25%,10600.0,10000.0,500.0,100.0,0.05,530.0,0.0,0.0,0.25,2650.0
+0305.39.61,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0305.41.00.00,"Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus),Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho)",5%,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",25%,10600.0,10000.0,500.0,100.0,0.05,530.0,0.0,0.0,0.25,2650.0
+0305.42.00,"Herrings (Clupea harengus, Clupea pallasii)",Free,,6.6¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.006226415094339623,66.0
+0305.43.00.00,"Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)",Free,,6.6¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.006226415094339623,66.0
+0305.44.01.00,"Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)",Free,,6.6¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.006226415094339623,66.0
+0305.49.20.00,Mackerel,Free,,25%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.25,2650.0
+0305.49.40,Other,Free,,6.6¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.006226415094339623,66.0
+0305.51.00.00,"Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",Free,,5.5¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.005188679245283019,55.0
+0305.52.00.00,"Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus spp., Carassius spp., Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus, Catla catla, Labeo spp., Osteochilus hasselti, Leptobarbus hoeveni, Megalobrama spp.), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)",Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0305.53.00.00,"Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae,Melanonidae, Merlucciidae, Moridae and Muraenolepididae, other than cod (Gadus morhua, Gadus ogac, Gadus macrocephalus).",Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0305.54.00.00,"Herrings (Clupea harengus, Clupea pallasii), anchovies (Engraulis spp.), sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus), mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus), Indian mackerels (Rastrelliger spp.), seerfishes (Scomberomorus spp.), jack and horse mackerel (Trachurus spp.), jacks, crevalles (Caranx spp.), cobia (Rachycentron canadum), silver pomfrets (Pampus spp.), Pacific saury (Cololabis saira), scads (Decapterus spp.), capelin (Mallotus villosus), swordfish (Xiphias gladius), Kawakawa (Euthynnus affinis), bonitos (Sarda spp.), marlins, sailfishes, spearfish (Istiophoridae)",Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0305.59.00.01,Other,Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0305.61.20.00,In immediate containers weighing with their contents 6.8 kg or less each,4%,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",25%,10600.0,10000.0,500.0,100.0,0.04,424.0,0.0,0.0,0.25,2650.0
+0305.61.40.00,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0305.62.00,"Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0305.63.20.00,In airtight containers,5%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.05,530.0,0.0,0.0,0.25,2650.0
+0305.63.40.00,Other,Free,,1%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.01,106.0
+0305.63.60.00,Other,Free,,2.5%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.025,265.0
+0305.64.10.00,In immediate containers weighing with their contents 6.8 kg or less each,Free,,25%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.25,2650.0
+0305.64.50.00,Other,0.5%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",1%,10600.0,10000.0,500.0,100.0,0.005,53.0,0.0,0.0,0.01,106.0
+0305.69.10,"Cusk, haddock, hake (Urophycis spp.) and pollock",Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0305.69.20.00,In immediate containers weighing with their contents 6.8 kg or less each,5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.05,530.0,0.0,0.0,0.25,2650.0
+0305.69.30.00,Other,Free,,2.2¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0020754716981132076,22.0
+0305.69.40.00,Salmon,3%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.03,318.0,0.0,0.0,0.25,2650.0
+0305.69.50.01,In immediate containers weighing with their contents 6.8 kg or less each,Free,,25%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.25,2650.0
+0305.69.60.01,Other,0.5%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",1%,10600.0,10000.0,500.0,100.0,0.005,53.0,0.0,0.0,0.01,106.0
+0305.71.00.00,Shark fins,Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0305.72.00.00,"Fish heads, tails and maws",Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0305.79.00.00,Other,Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0306.14.20.00,Crabmeat,7.5%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",15%,10600.0,10000.0,500.0,100.0,0.075,795.0,0.0,0.0,0.15,1590.0
+0306.33.20.00,Crabmeat,7.5%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",15%,10600.0,10000.0,500.0,100.0,0.075,795.0,0.0,0.0,0.15,1590.0
+0306.93.20.00,Crabmeat,7.5%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",15%,10600.0,10000.0,500.0,100.0,0.075,795.0,0.0,0.0,0.15,1590.0
+0307.60.00.00,"Snails, other than sea snails",5%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.05,530.0,0.0,0.0,0.2,2120.0
+0309.10.05.00,In bulk or in immediate containers weighing with their contents over 6.8 kg each,Free,,2.8¢/kg,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.0026415094339622643,28.000000000000004
+0309.10.90.00,Other,6%,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.06,636.0,0.0,0.0,0.25,2650.0
+0401.50.42.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,12.3¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",31¢/kg,10600.0,10000.0,500.0,100.0,0.01160377358490566,123.0,0.0,0.0,0.029245283018867925,310.0
+0401.50.50.00,Described in additional U.S. note 6 to this chapter and entered pursuant to its provisions,12.3¢/kg,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",31¢/kg,10600.0,10000.0,500.0,100.0,0.01160377358490566,123.0,0.0,0.0,0.029245283018867925,310.0
+0402.10.05.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,3.3¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",6.6¢/kg,10600.0,10000.0,500.0,100.0,0.0031132075471698114,33.0,0.0,0.0,0.006226415094339623,66.0
+0402.10.10.00,Described in additional U.S. note 7 to this chapter and entered pursuant to its provisions,3.3¢/kg,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",6.6¢/kg,10600.0,10000.0,500.0,100.0,0.0031132075471698114,33.0,0.0,0.0,0.006226415094339623,66.0
+0402.10.50.00,Other,86.5¢/kg,"Free (BH,CL,JO,MA,OM,P,PE,SG) 5.7¢/kg (CO,KR,PA) See 9822.04.15 (AU) See 9823.02.01-9823.02.04 (S+) See 9908.04.03 (IL)",$1.018/kg,10600.0,10000.0,500.0,100.0,0.08160377358490566,865.0,0.0,0.0,0.0,0.0
+0402.21.02.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,3.3¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",6.6¢/kg,10600.0,10000.0,500.0,100.0,0.0031132075471698114,33.0,0.0,0.0,0.006226415094339623,66.0
+0402.21.05.00,Described in additional U.S. note 7 to this chapterand entered pursuant to its provisions,3.3¢/kg,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",6.6¢/kg,10600.0,10000.0,500.0,100.0,0.0031132075471698114,33.0,0.0,0.0,0.006226415094339623,66.0
+0402.21.25.00,Other,86.5¢/kg,"Free (BH,CL,JO,MA,OM,P,PE,SG) 5.7¢/kg (CO,KR,PA) See 9822.04.15 (AU) See 9823.02.01-9823.02.04 (S+) See 9908.04.03 (IL)",$1.018/kg,10600.0,10000.0,500.0,100.0,0.08160377358490566,865.0,0.0,0.0,0.0,0.0
+0402.21.27.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,6.8¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",13.7¢/kg,10600.0,10000.0,500.0,100.0,0.006415094339622641,68.0,0.0,0.0,0.012924528301886793,137.0
+0402.21.30.00,Described in additional U.S. note 8 to this chapterand entered pursuant to its provisions,6.8¢/kg,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",13.7¢/kg,10600.0,10000.0,500.0,100.0,0.006415094339622641,68.0,0.0,0.0,0.012924528301886793,137.0
+0402.21.73.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,13.7¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",27.3¢/kg,10600.0,10000.0,500.0,100.0,0.012924528301886793,137.0,0.0,0.0,0.025754716981132075,273.0
+0402.21.75.00,Described in additional U.S. note 9 to this chapter and entered pursuant to its provisions,13.7¢/kg,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",27.3¢/kg,10600.0,10000.0,500.0,100.0,0.012924528301886793,137.0,0.0,0.0,0.025754716981132075,273.0
+0402.29.05.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,17.5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.175,1854.9999999999998,0.0,0.0,0.35,3709.9999999999995
+0402.29.10.00,Described in additional U.S. note 10 to this chapter and entered pursuant to its provisions,17.5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.175,1854.9999999999998,0.0,0.0,0.35,3709.9999999999995
+0402.29.50.00,Other,$1.104/kg + 14.9%,"Free (BH,CL,JO,KR,MA,OM,P,PE,SG) 7.3¢/kg + 0.9% (PA) See 9822.04.25 (AU) See 9823.05.01-9823.05.06 (S+) See 9918.04.60, 9918.04.61 (CO)",$1.299/kg + 17.5%,10600.0,10000.0,500.0,100.0,0.149,1579.3999999999999,0.0,0.0,0.175,1854.9999999999998
+0402.91.03.00,In airtight containers,2.2¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",4¢/kg,10600.0,10000.0,500.0,100.0,0.0020754716981132076,22.0,0.0,0.0,0.0037735849056603774,40.0
+0402.91.06.00,Other,3.3¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",5.6¢/kg,10600.0,10000.0,500.0,100.0,0.0031132075471698114,33.0,0.0,0.0,0.005283018867924529,56.00000000000001
+0402.91.10.00,In airtight containers,2.2¢/kg,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",4¢/kg,10600.0,10000.0,500.0,100.0,0.0020754716981132076,22.0,0.0,0.0,0.0037735849056603774,40.0
+0402.91.30.00,Other,3.3¢/kg,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",5.6¢/kg,10600.0,10000.0,500.0,100.0,0.0031132075471698114,33.0,0.0,0.0,0.005283018867924529,56.00000000000001
+0402.91.70.00,In airtight containers,31.3¢/kg,"Free (BH,CL,JO,KR,MA,OM,P,PE,SG) 2¢/kg (CO) See 9822.04.30 (AU) See 9823.07.01-9823.07.07 (S+) See 9919.04.10, 9919.04.11, 9919.04.13 (PA)",36.8¢/kg,10600.0,10000.0,500.0,100.0,0.029528301886792452,313.0,0.0,0.0,0.03471698113207547,368.0
+0402.91.90.00,Other,31.3¢/kg,"Free (BH,CL,JO,KR,MA,OM,P,PE,SG) 2¢/kg (CO) See 9822.04.30 (AU) See 9823.07.01-9823.07.07 (S+) See 9919.04.10, 9919.04.11, 9919.04.13 (PA)",36.8¢/kg,10600.0,10000.0,500.0,100.0,0.029528301886792452,313.0,0.0,0.0,0.03471698113207547,368.0
+0402.99.03.00,In airtight containers,3.9¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",6¢/kg,10600.0,10000.0,500.0,100.0,0.0036792452830188677,39.0,0.0,0.0,0.005660377358490566,59.99999999999999
+0402.99.06.00,Other,3.3¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",5.6¢/kg,10600.0,10000.0,500.0,100.0,0.0031132075471698114,33.0,0.0,0.0,0.005283018867924529,56.00000000000001
+0402.99.10.00,In airtight containers,3.9¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",6¢/kg,10600.0,10000.0,500.0,100.0,0.0036792452830188677,39.0,0.0,0.0,0.005660377358490566,59.99999999999999
+0402.99.30.00,Other,3.3¢/kg,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",5.6¢/kg,10600.0,10000.0,500.0,100.0,0.0031132075471698114,33.0,0.0,0.0,0.005283018867924529,56.00000000000001
+0402.99.45.00,In airtight containers,49.6¢/kg,"Free (BH,CL,JO,KR,MA,OM,P,PE,SG) 3.3¢/kg (CO) See 9822.04.30 (AU) See 9823.07.01-9823.07.07 (S+) See 9919.04.10, 9919.04.12, 99.19.04.14 (PA)",58.4¢/kg,10600.0,10000.0,500.0,100.0,0.04679245283018868,496.0,0.0,0.0,0.05509433962264151,584.0
+0402.99.55.00,Other,49.6¢/kg,"Free (BH,CL,JO,KR,MA,OM,P,PE,SG) 3.3¢/kg (CO) See 9822.04.30 (AU) See 9823.07.01-9823.07.07 (S+) See 9919.04.10, 9919.04.12, 99.19.04.14 (PA)",58.4¢/kg,10600.0,10000.0,500.0,100.0,0.04679245283018868,496.0,0.0,0.0,0.05509433962264151,584.0
+0402.99.68.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,17.5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.175,1854.9999999999998,0.0,0.0,0.35,3709.9999999999995
+0402.99.70.00,Described in additional U.S. note 10 to this chapter and entered pursuant to its provisions,17.5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.175,1854.9999999999998,0.0,0.0,0.35,3709.9999999999995
+0402.99.90.00,Other,46.3¢/kg + 14.9%,"Free (BH,CL,JO,KR,MA,OM,P,PE,SG) 3¢/kg + 0.9% (PA) See 9822.04.25 (AU) See 9823.07.01-9823.07.07 (S+) See 9918.04.60, 9918.04.62 (CO)",54.5¢/kg + 17.5%,10600.0,10000.0,500.0,100.0,0.149,1579.3999999999999,0.0,0.0,0.175,1854.9999999999998
+0403.20.05.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions.,20%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.2,2120.0,0.0,0.0,0.2,2120.0
+0403.20.10.00,Described in additional U.S. note 10 to this chapter and entered pursuant to its provisions,20%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.2,2120.0,0.0,0.0,0.2,2120.0
+0403.20.50.00,Other,$1.035/kg + 17%,"Free (BH,CL,JO,KR,MA,OM,P,PE,SG) 6.9¢/kg + 1.1% (PA) See 9822.04.25 (AU) See 9823.06.01-9823.06.09 (S+) See 9918.04.60, 9918.04.63 (CO)",$1.217/kg + 20%,10600.0,10000.0,500.0,100.0,0.17,1802.0000000000002,0.0,0.0,0.2,2120.0
+0403.20.90.00,Other,17%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.17,1802.0000000000002,0.0,0.0,0.2,2120.0
+0403.90.37.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,3.3¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA, PE,S,SG)",6.6¢/kg,10600.0,10000.0,500.0,100.0,0.0031132075471698114,33.0,0.0,0.0,0.006226415094339623,66.0
+0403.90.41,Described in additional U.S. note 12 to this chapter and entered pursuant to its provisions,3.3¢/kg,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",6.6¢/kg,10600.0,10000.0,500.0,100.0,0.0031132075471698114,33.0,0.0,0.0,0.006226415094339623,66.0
+0403.90.45.00,Other,87.6¢/kg,"Free (BH,CL,JO,MA,OM,P,PE,SG) 5.8¢/kg (CO,KR,PA) See 9822.04.20 (AU) See 9823.06.01-9823.06.09 (S+)",$1.03/kg,10600.0,10000.0,500.0,100.0,0.08264150943396227,876.0000000000001,0.0,0.0,0.0,0.0
+0403.90.47.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,6.8¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA, PE,S,SG)",13.7¢/kg,10600.0,10000.0,500.0,100.0,0.006415094339622641,68.0,0.0,0.0,0.012924528301886793,137.0
+0403.90.51.00,Described in additional U.S. note 8 to this chapter and entered pursuant to its provisions,6.8¢/kg,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",13.7¢/kg,10600.0,10000.0,500.0,100.0,0.006415094339622641,68.0,0.0,0.0,0.012924528301886793,137.0
+0403.90.57.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,13.7¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",27.3¢/kg,10600.0,10000.0,500.0,100.0,0.012924528301886793,137.0,0.0,0.0,0.025754716981132075,273.0
+0403.90.61.00,Described in additional U.S. note 9 to this chapter and entered pursuant to its provisions,13.7¢/kg,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",27.3¢/kg,10600.0,10000.0,500.0,100.0,0.012924528301886793,137.0,0.0,0.0,0.025754716981132075,273.0
+0403.90.72.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,12.3¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",30.9¢/kg,10600.0,10000.0,500.0,100.0,0.01160377358490566,123.0,0.0,0.0,0.029150943396226415,309.0
+0403.90.74.00,Described in additional U.S. note 6 to this chapter and entered pursuant to its provisions,12.3¢/kg,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",30.9¢/kg,10600.0,10000.0,500.0,100.0,0.01160377358490566,123.0,0.0,0.0,0.029150943396226415,309.0
+0403.90.85.00,Fermented milk other than dried fermented milk or other than dried milk with added lactic ferments,17%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.17,1802.0000000000002,0.0,0.0,0.2,2120.0
+0403.90.87.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,20%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.2,2120.0,0.0,0.0,0.2,2120.0
+0403.90.90.00,Described in additional U.S. note 10 to this chapter and entered pursuant to its provisions,20%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.2,2120.0,0.0,0.0,0.2,2120.0
+0403.90.95.00,Other,$1.034/kg + 17%,"Free (BH,CL,JO,KR,MA,OM,P,SG) 6.8¢/kg + 1.1% (PA) See 9822.04.25 (AU) See 9823.06.01-9823.06.09 (S+) See 9918.04.60, 9918.04.64 (CO)",$1.217/kg + 20%,10600.0,10000.0,500.0,100.0,0.17,1802.0000000000002,0.0,0.0,0.2,2120.0
+0404.10.05.00,Whey protein concentrates,8.5%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.085,901.0000000000001,0.0,0.0,0.2,2120.0
+0404.10.08.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,13%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.13,1378.0,0.0,0.0,0.2,2120.0
+0404.10.11.00,Described in additional U.S. note 10 to this chapter and entered pursuant to its provisions,13%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.13,1378.0,0.0,0.0,0.2,2120.0
+0404.10.15.00,Other,$1.035/kg + 8.5%,"Free (BH,CL,JO,KR,MA,OM,P,PE,SG) 6.9¢/kg + 0.5% (PA) See 9822.04.25 (AU) See 9823.06.01-9823.06.09 (S+) See 9918.04.60, 9918.04.65 (CO)",$1.217/kg + 10%,10600.0,10000.0,500.0,100.0,0.085,901.0000000000001,0.0,0.0,0.1,1060.0
+0404.10.48.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,3.3¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",6.6¢/kg,10600.0,10000.0,500.0,100.0,0.0031132075471698114,33.0,0.0,0.0,0.006226415094339623,66.0
+0404.10.50,Described in additional U.S. note 12 to this chapter and entered pursuant to its provisions,3.3¢/kg,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",6.6¢/kg,10600.0,10000.0,500.0,100.0,0.0031132075471698114,33.0,0.0,0.0,0.006226415094339623,66.0
+0404.10.90.00,Other,87.6¢/kg,"Free (BH,CL,JO,MA,OM,P,PE,SG) 5.8¢/kg (CO,KR,PA) See 9822.04.20 (AU) See 9823.06.01-9823.06.09 (S+)",$1.03/kg,10600.0,10000.0,500.0,100.0,0.08264150943396227,876.0000000000001,0.0,0.0,0.0,0.0
+0404.90.10.00,Milk protein concentrates,0.37¢/kg,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",12¢/kg,10600.0,10000.0,500.0,100.0,0.0003490566037735849,3.6999999999999997,0.0,0.0,0.011320754716981131,119.99999999999999
+0404.90.28.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,14.5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.145,1537.0,0.0,0.0,0.25,2650.0
+0404.90.30.00,Described in additional U.S. note 10 to this chapterand entered pursuant to its provisions,14.5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",25%,10600.0,10000.0,500.0,100.0,0.145,1537.0,0.0,0.0,0.25,2650.0
+0404.90.50.00,Other,$1.189/kg + 8.5%,"Free (BH,CL,JO,KR,MA,OM,P,PE,SG) 7.9¢/kg + 0.5% (PA) See 9822.04.25 (AU) See 9823.06.01-9823.06.09 (S+) See 9918.04.60, 9918.04.66 (CO)",$1.399/kg + 10%,10600.0,10000.0,500.0,100.0,0.085,901.0000000000001,0.0,0.0,0.1,1060.0
+0404.90.70.00,Other,8.5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.085,901.0000000000001,0.0,0.0,0.2,2120.0
+0405.10.05.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,12.3¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA, PE,S,SG)",30.9¢/kg,10600.0,10000.0,500.0,100.0,0.01160377358490566,123.0,0.0,0.0,0.029150943396226415,309.0
+0405.10.10.00,Described in additional U.S. note 6 to this chapter and entered pursuant to its provisions,12.3¢/kg,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",30.9¢/kg,10600.0,10000.0,500.0,100.0,0.01160377358490566,123.0,0.0,0.0,0.029150943396226415,309.0
+0405.20.10.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,15.4¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",31¢/kg,10600.0,10000.0,500.0,100.0,0.014528301886792452,154.0,0.0,0.0,0.029245283018867925,310.0
+0405.20.20.00,Described in additional U.S. note 14 to this chapter and entered pursuant to its provisions,15.4¢/kg,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",31¢/kg,10600.0,10000.0,500.0,100.0,0.014528301886792452,154.0,0.0,0.0,0.029245283018867925,310.0
+0405.20.40.00,Other,13.1¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",31¢/kg,10600.0,10000.0,500.0,100.0,0.012358490566037736,131.0,0.0,0.0,0.029245283018867925,310.0
+0405.20.50.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,10%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.2,2120.0
+0405.20.60.00,Described in additional U.S. note 10 to this chapter and entered pursuant to its provisions,10%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.2,2120.0
+0405.20.70.00,Other,70.4¢/kg + 8.5%,"Free (BH,CL,JO,KR,MA,OM,P,PE,SG) 4.6¢/kg + 0.5% (PA) See 9822.04.25 (AU) See 9823.03.01-9823.03.12 (S+) See 9918.04.60, 9918.04.67 (CO)",82.8¢/kg + 10%,10600.0,10000.0,500.0,100.0,0.085,901.0000000000001,0.0,0.0,0.1,1060.0
+0405.20.80.00,Other,6.4%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.064,678.4,0.0,0.0,0.2,2120.0
+0405.90.05,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,10%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.2,2120.0
+0405.90.10,Described in additional U.S. note 14 to this chapter and entered pursuant to its provisions,10%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.2,2120.0
+0405.90.20,Other,$1.865/kg + 8.5%,"Free (BH,CL,CO,JO,KR,MA,OM,P,PE,SG) 12.4¢/kg + 0.5% (PA) See 9822.04.10 (AU) See 9823.03.01-9823.03.12 (S+)",$2.194/kg + 10%,10600.0,10000.0,500.0,100.0,0.085,901.0000000000001,0.0,0.0,0.1,1060.0
+0406.10.02.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,10%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.10.04.00,Described in additional U.S.note 16 to this chapter and entered pursuant to its provisions,10%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.10.12.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,10%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.10.14.00,Described in additional U.S. note 17 to this chapter and entered pursuant to its provisions,10%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.10.24.00,Described in additional U.S. note 18 to this chapter and entered pursuant to its provisions,10%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.10.34.00,Described in additional U.S. note 19 to this chapter and entered pursuant to its provisions,10%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.10.44.00,Described in additional U.S. note 20 to this chapter and entered pursuant to its provisions,10%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.10.54.00,Described in additional U.S. note 21 to this chapter and entered pursuant to its provisions,10%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.10.64.00,Described in additional U.S. note 22 to this chapter and entered pursuant to its provisions,10%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.10.74.00,Described in additional U.S. note 23 to this chapter and entered pursuant to its provisions,10%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.10.84.00,Described in additional U.S. note 16 to this chapter and entered pursuant to its provisions,10%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.10.95.00,Other,8.5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.085,901.0000000000001,0.0,0.0,0.35,3709.9999999999995
+0406.20.10.00,Roquefort cheese,8%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.08,848.0,0.0,0.0,0.35,3709.9999999999995
+0406.20.15.00,Stilton cheese described in additional U.S. note 24 to this chapter and entered pursuant to its provisions,17%,"Free (CO,JO,KR,OM,PA,PE,S)",35%,10600.0,10000.0,500.0,100.0,0.17,1802.0000000000002,0.0,0.0,0.35,3709.9999999999995
+0406.20.22.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,20%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.2,2120.0,0.0,0.0,0.35,3709.9999999999995
+0406.20.24.00,Described in additional U.S. note 17 to this chapter and entered pursuant to its provisions,20%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.2,2120.0,0.0,0.0,0.35,3709.9999999999995
+0406.20.29.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,16%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.16,1696.0,0.0,0.0,0.35,3709.9999999999995
+0406.20.31,Described in additional U.S.note 18 to this chapter and entered pursuant to its provisions,16%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.16,1696.0,0.0,0.0,0.35,3709.9999999999995
+0406.20.34.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,20%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.2,2120.0,0.0,0.0,0.35,3709.9999999999995
+0406.20.36.00,Described in additional U.S.note 19 to this chapter and entered pursuant to its provisions,20%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.2,2120.0,0.0,0.0,0.35,3709.9999999999995
+0406.20.43.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,15%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.15,1590.0,0.0,0.0,0.35,3709.9999999999995
+0406.20.44.00,Described in additional U.S. note 20 to this chapter and entered pursuant to its provisions,15%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.15,1590.0,0.0,0.0,0.35,3709.9999999999995
+0406.20.49.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,15%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.15,1590.0,0.0,0.0,0.35,3709.9999999999995
+0406.20.51.00,Described in additional U.S. note 21 to this chapter and entered pursuant to its provisions,15%,"Free (A,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.15,1590.0,0.0,0.0,0.35,3709.9999999999995
+0406.20.54.00,Other,9.6%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.096,1017.6,0.0,0.0,0.35,3709.9999999999995
+0406.20.55.00,Cheeses made from sheep's milk,9.6%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.096,1017.6,0.0,0.0,0.35,3709.9999999999995
+0406.20.56.00,"Other, described in general note 15 of the tariff schedule and entered pursuant to its provisions",10%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.20.57.00,"Containing, or processed from, Bryndza, Gjetost, Gammelost, Nokkelost or Roquefort cheeses",8.5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.085,901.0000000000001,0.0,0.0,0.35,3709.9999999999995
+0406.20.61.00,Described in additional U.S. note 17 to this chapter and entered pursuant to its provisions,10%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.20.65.00,Described in additional U.S. note 18 to this chapter and entered pursuant to its provisions,10%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.20.69.00,Described in additional U.S.note 19 to this chapter and entered pursuant to its provisions,10%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.20.73.00,Described in additional U.S. note 20 to this chapter and entered pursuant to its provisions,10%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.20.77.00,Described in additional U.S. note 21 to this chapter and entered pursuant to its provisions,10%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.20.81.00,Described in additional U.S. note 22 to this chapter and entered pursuant to its provisions,10%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.20.85.00,Described in additional U.S. note 23 to this chapter and entered pursuant to its provisions,10%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.20.89.00,Described in additional U.S. note 16 to this chapter and entered pursuant to its provisions,10%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.20.95.00,Other,8.5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.085,901.0000000000001,0.0,0.0,0.35,3709.9999999999995
+0406.30.05.00,Stilton cheese described in additional U.S. note 24 to this chapter and entered pursuant to its provisions,17%,"Free (CO,JO,KR,OM,PA,PE,S)",35%,10600.0,10000.0,500.0,100.0,0.17,1802.0000000000002,0.0,0.0,0.35,3709.9999999999995
+0406.30.12.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,20%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.2,2120.0,0.0,0.0,0.35,3709.9999999999995
+0406.30.14.00,Described in additional U.S. note 17 to this chapter and entered pursuant to its provisions,20%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.2,2120.0,0.0,0.0,0.35,3709.9999999999995
+0406.30.22.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,16%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.16,1696.0,0.0,0.0,0.35,3709.9999999999995
+0406.30.24.00,Described in additional U.S.note 18 to this chapter and entered pursuant to its provisions,16%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.16,1696.0,0.0,0.0,0.35,3709.9999999999995
+0406.30.32.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,20%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.2,2120.0,0.0,0.0,0.35,3709.9999999999995
+0406.30.34.00,Described in additional U.S. note 19 to this chapter and entered pursuant to its provisions,20%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.2,2120.0,0.0,0.0,0.35,3709.9999999999995
+0406.30.42.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,15%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.15,1590.0,0.0,0.0,0.35,3709.9999999999995
+0406.30.44.00,Described in additional U.S. note 20 to this chapter and entered pursuant to its provisions,15%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.15,1590.0,0.0,0.0,0.35,3709.9999999999995
+0406.30.49.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,6.4%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.064,678.4,0.0,0.0,0.35,3709.9999999999995
+0406.30.51.00,Described in additional U.S. note 22 to this chapter and entered pursuant to its provisions,6.4%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.064,678.4,0.0,0.0,0.35,3709.9999999999995
+0406.30.55.00,Cheeses made from sheep's milk,9.6%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.096,1017.6,0.0,0.0,0.35,3709.9999999999995
+0406.30.56.00,"Other, described in general note 15 of the tariff schedule and entered pursuant to its provisions",10%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.30.57.00,"Containing, or processed from, Bryndza, Gjetost, Gammelost, Nokkelost or Roquefort cheeses",8.5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.085,901.0000000000001,0.0,0.0,0.35,3709.9999999999995
+0406.30.61.00,Described in additional U.S. note 17 to this chapter and entered pursuant to its provisions,10%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.30.65.00,Described in additional U.S. note 18 to this chapter and entered pursuant to its provisions,10%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.30.69.00,Described in additional U.S. note 19 to this chapter and entered pursuant to its provisions,10%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.30.73.00,Described in additional U.S. note 20 to this chapter and entered pursuant to its provisions,10%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.30.77.00,Described in additional U.S. note 21 to this chapter and entered pursuant to its provisions,10%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.30.81.00,Described in additional U.S. note 22 to this chapter and entered pursuant to its provisions,10%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.30.85.00,Described in additional U.S. note 23 to this chapter and entered pursuant to its provisions,10%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.30.89.00,Described in additional U.S. note 16 to this chapter and entered pursuant to its provisions,10%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.30.95.00,Other,8.5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.085,901.0000000000001,0.0,0.0,0.35,3709.9999999999995
+0406.40.20.00,In original loaves,2.7%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.027000000000000003,286.20000000000005,0.0,0.0,0.35,3709.9999999999995
+0406.40.40.00,Other,4.5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.045,477.0,0.0,0.0,0.35,3709.9999999999995
+0406.40.44.00,In original loaves,12.8%,"Free (CO,JO,KR,OM,PA,PE,S)",35%,10600.0,10000.0,500.0,100.0,0.128,1356.8,0.0,0.0,0.35,3709.9999999999995
+0406.40.48.00,Other,17%,"Free (CO,JO,KR,OM,PA,PE,S)",35%,10600.0,10000.0,500.0,100.0,0.17,1802.0000000000002,0.0,0.0,0.35,3709.9999999999995
+0406.40.51.00,In original loaves,15%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.15,1590.0,0.0,0.0,0.35,3709.9999999999995
+0406.40.52.00,Other,20%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.2,2120.0,0.0,0.0,0.35,3709.9999999999995
+0406.40.54.00,In original loaves,15%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.15,1590.0,0.0,0.0,0.35,3709.9999999999995
+0406.40.58.00,Other,20%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.2,2120.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.05.00,Bryndza cheese,7.2%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.07200000000000001,763.2,0.0,0.0,0.35,3709.9999999999995
+0406.90.06.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,12%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.12,1272.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.08,Described in additional U.S. note 18 to this chapter and entered pursuant to its provisions,12%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.12,1272.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.14.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,15%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.15,1590.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.16.00,Described in additional U.S. note 20 to this chapter and entered pursuant to its provisions,15%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.15,1590.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.20.00,Made from goat's milk whey or from whey obtained from a mixture of goat's milk and not more than 20 percent by weight of cow's milk,4.2%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.042,445.20000000000005,0.0,0.0,0.35,3709.9999999999995
+0406.90.25.00,Other,8.5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.085,901.0000000000001,0.0,0.0,0.35,3709.9999999999995
+0406.90.28.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,25%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.25,2650.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.31.00,Described in additional U.S. note 21 to this chapter and entered pursuant to its provisions,25%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.25,2650.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.33.00,Other,21.3%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.213,2257.7999999999997,0.0,0.0,0.35,3709.9999999999995
+0406.90.34.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,19%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.19,2014.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.36.00,Described in additional U.S. note 21 to this chapter and entered pursuant to its provisions,19%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.19,2014.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.38.00,Other,12.2%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.122,1293.2,0.0,0.0,0.35,3709.9999999999995
+0406.90.39.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,15%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.15,1590.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.41.00,Described in additional U.S. note 21 to this chapter and entered pursuant to its provisions,15%,"Free (A,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.15,1590.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.43.00,Other,9.6%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.096,1017.6,0.0,0.0,0.35,3709.9999999999995
+0406.90.44.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,6.4%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.064,678.4,0.0,0.0,0.35,3709.9999999999995
+0406.90.46.00,Described in additional U.S. note 25 to this chapter and entered pursuant to its provisions,6.4%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.064,678.4,0.0,0.0,0.35,3709.9999999999995
+0406.90.49.00,Gammelost and Nokkelost cheeses,5.4%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.054000000000000006,572.4000000000001,0.0,0.0,0.35,3709.9999999999995
+0406.90.51.00,Described in general note 15 of the tariff schedule and entered pursuant to its provisions,20%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.2,2120.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.52.00,Described in additional U.S. note 19 to this chapter and entered pursuant to its provisions,20%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.2,2120.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.56.00,In original loaves and suitable for grating,Free,,35%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.57.00,"Pecorino, in original loaves, not suitable for grating",Free,,35%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.59.00,Other,9.6%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.096,1017.6,0.0,0.0,0.35,3709.9999999999995
+0406.90.61.00,"Containing Romano, Reggiano, Parmesan, Provolone, Provoletti, Sbrinz or Goya, all the foregoing made from cow's milk",7.5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.075,795.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.63.00,Other,10%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.66.00,Described in additional U.S. note 21 to this chapter and entered pursuant to its provisions,7.5%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.075,795.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.72.00,Described in additional U.S. note 17 to this chapter and entered pursuant to its provisions,10%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.76.00,Described in additional U.S. note 18 to this chapter and entered pursuant to its provisions,10%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.82.00,Described in additional U.S. note 19 to this chapter and entered pursuant to its provisions,10%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.86.00,Described in additional U.S. note 20 to this chapter and entered pursuant to its provisions,10%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.90.00,Described in additional U.S. note 22 to this chapter and entered pursuant to its provisions,10%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.93.00,Described in additional U.S. note 23 to this chapter and entered pursuant to its provisions,10%,"Free (A+,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.95.00,Described in additional U.S. note 16 to this chapter and entered pursuant to its provisions,10%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.1,1060.0,0.0,0.0,0.35,3709.9999999999995
+0406.90.99.00,Other,8.5%,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",35%,10600.0,10000.0,500.0,100.0,0.085,901.0000000000001,0.0,0.0,0.35,3709.9999999999995
+0408.11.00.00,Dried,47.6¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",59.5¢/kg,10600.0,10000.0,500.0,100.0,0.04490566037735849,476.0,0.0,0.0,0.056132075471698115,595.0
+0408.19.00.00,Other,9.7¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S,SG)",24.3¢/kg,10600.0,10000.0,500.0,100.0,0.009150943396226414,97.0,0.0,0.0,0.022924528301886793,243.0
+0408.91.00.00,Dried,47.6¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",59.5¢/kg,10600.0,10000.0,500.0,100.0,0.04490566037735849,476.0,0.0,0.0,0.056132075471698115,595.0
+0408.99.00.00,Other,9.7¢/kg,"Free (A+,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",24.3¢/kg,10600.0,10000.0,500.0,100.0,0.009150943396226414,97.0,0.0,0.0,0.022924528301886793,243.0
+0409.00.00,Natural honey,1.9¢/kg,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA,PE,S, SG)",6.6¢/kg,10600.0,10000.0,500.0,100.0,0.0017924528301886792,19.0,0.0,0.0,0.006226415094339623,66.0
+0410.10.00.00,Insects,1.1%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",10%,10600.0,10000.0,500.0,100.0,0.011000000000000001,116.60000000000001,0.0,0.0,0.1,1060.0
+0410.90.00.00,Other,1.1%,"Free (A,AU, BH,CL,CO,D, E,IL,JO,KR, MA,OM,P,PA, PE,S,SG)",10%,10600.0,10000.0,500.0,100.0,0.011000000000000001,116.60000000000001,0.0,0.0,0.1,1060.0
+0501.00.00.00,"Human hair, unworked, whether or not washed or scoured; waste of human hair",1.4%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.013999999999999999,148.39999999999998,0.0,0.0,0.2,2120.0
+0502.10.00.00,"Pigs', hogs' or boars' bristles and hair and waste thereof",0.8¢/kg,"Free (A*,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",6.6¢/kg,10600.0,10000.0,500.0,100.0,0.0007547169811320754,8.0,0.0,0.0,0.006226415094339623,66.0
+0505.10.00,Feathers of a kind used for stuffing; down,Free,,20%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.2,2120.0
+0505.90.20,Feather meal and waste,2.3%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.023,243.79999999999998,0.0,0.0,0.2,2120.0
+0505.90.60.00,Other,Free,,20%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.2,2120.0
+0510.00.20.00,"Ambergris, castoreum, civet and musk",5.1%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",20%,10600.0,10000.0,500.0,100.0,0.051,540.5999999999999,0.0,0.0,0.2,2120.0
+0511.10.00,Bovine semen,Free,,10%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.1,1060.0
+0511.99.30,Products chiefly used as food for animals or as ingredients in such food,Free,,10%,10600.0,10000.0,500.0,100.0,0.0,0.0,0.0,0.0,0.1,1060.0
+0511.99.36.00,Natural sponges of animal origin,3%,"Free (A+,AU,BH,CL,CO,D,E, IL,JO,KR,MA,OM,P,PA, PE,S,SG)",15%,10600.0,10000.0,500.0,100.0,0.03,318.0,0.0,0.0,0.15,1590.0
+0511.99.40,Other,1.1%,"Free (A,AU,BH,CL,CO,D,E,IL,JO,KR,MA,OM,P,PA,PE,S,SG)",10%,10600.0,10000.0,500.0,100.0,0.011000000000000001,116.60000000000001,0.0,0.0,0.1,1060.0
