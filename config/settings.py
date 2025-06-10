@@ -7,6 +7,6 @@ from dotenv import load_dotenv
 load_dotenv()
 
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
-MODEL_NAME = "openrouter/deepseek/deepseek-r1-0528"
+MODEL_NAME = "deepseek/deepseek-r1-0528:free"
 HTS_DATA_DIR = "data/downloads/"
 VECTORSTORE_DIR = "data/vectorstore/"

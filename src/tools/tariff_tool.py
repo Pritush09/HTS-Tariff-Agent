@@ -2,15 +2,11 @@ import os
 import pandas as pd
 from typing import Dict
 from src.utils.duty_calculator import calculate_duties_for_dataframe
+from .data_ingestion import load_csvs
 
 class TariffCalculatorTool:
     def __init__(self, data_dir: str = "data/downloads/section1"):
-        self.dataframes = []
-        for file in os.listdir(data_dir):
-            if file.endswith(".csv"):
-                df = pd.read_csv(os.path.join(data_dir, file))
-                self.dataframes.append(df)
-        self.data = pd.concat(self.dataframes, ignore_index=True)
+        self.data = load_csvs(data_dir)
 
     def calculate_duty(self, hts_code: str, product_cost: float, freight: float, insurance: float,
                        unit_weight: float, quantity: int) -> Dict:

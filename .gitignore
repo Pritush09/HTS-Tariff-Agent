@@ -47,3 +47,12 @@ wheels/
 .installed.cfg
 *.egg
 .venv
+
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.*
+.git
+.data/
+data/vectorstore/
