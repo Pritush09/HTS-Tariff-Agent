@@ -98,5 +98,9 @@ Does NAFTA still apply? Where is General Note 12 referenced?
 
 📦 Duty Calculation
 ```
-Calculate duties for HTS 0101.30.00.00, cost 10000, 500 kg, 5 units
+Calculate duties for HTS 0101.30.00.10, cost 10000, 500 kg, 5 units
 ```
+
+## 🧠 HTSAgent Architecture
+A multi-agent system for tariff estimation and trade policy Q&A using LangChain and OpenRouter LLMs.
+![alt text](<ChatGPT Image Jun 10, 2025, 07_00_01 PM.png>)
