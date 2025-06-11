@@ -27,7 +27,9 @@ agent = st.session_state.agent
 st.markdown("""
 💬 Example queries:
 - “What is the United States-Israel Free Trade Agreement?”
-- “For duty calculation give input like: hts_code=0101.21.0000, cost=1000, freight=50, insurance=20, weight=200, quantity=10”
+
+- Duty Calculation assumes a structure like XXXX.XX.XX.XX (10 digits, 3 dots)
+- “For duty calculation give input like: hts_code=0101.21.00.00, cost=1000, freight=50, insurance=20, weight=200, quantity=10”
 """)
 
 query = st.text_area("Enter your query")

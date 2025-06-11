@@ -79,7 +79,7 @@ class RAGAgent:
 
             # Extract clean source names
             source_info = "\n".join(
-                f"- {doc.metadata.get('source', 'Unknown Source')}" for doc in sources
+                f"- {doc.metadata.get('source', ' ')}" for doc in sources
             )
 
             return f"{answer}\n\n📄 Sources:\n{source_info}"

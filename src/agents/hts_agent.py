@@ -41,7 +41,10 @@ class HTSAgent:
             Tool(
                 name="DutyEstimator",
                 func=self._handle_tariff_query,
-                description="Calculate import duty. Input format: hts_code=..., cost=..., freight=..., insurance=..., weight=..., quantity=..."
+                description="""Calculate import duty. Input format: hts_code=..., cost=..., freight=..., insurance=..., weight=..., quantity=... 
+                if the hts_code is not of format (10 digits with 3 dots) then convert it to the format by 
+                padding it with 00 or 0 or placing the (.) at appropriate place
+                to make the string look like XXXX.XX.XX.XX"""
             ),
             Tool(
                 name="TradePolicyQA",
